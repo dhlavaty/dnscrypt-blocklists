@@ -11,6 +11,7 @@ dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns.aa.net.uk
 dns.adguard-dns.com
+dns.artikel10.org
 dns.brahma.world
 dns.circl.lu
 dns.cloudflare.com
@@ -31,6 +32,7 @@ dnsbunker.org
 dnsforge.de
 dnslow.me
 dnspub.restena.lu
+doh-de.blahdns.com
 doh-ipv6.crypto.sx
 doh-sg.blahdns.com
 doh.360.cn
