@@ -41,15 +41,15 @@ doh.appliedprivacy.net
 doh.bortzmeyer.fr
 doh.cleanbrowsing.org
 doh.crypto.sx
+doh.dns4all.eu
 doh.ffmuc.net
 doh.libredns.gr
 doh.opendns.com
 doh.safesurfer.io
 doh.tiar.app
 doh.tiarap.org
+doh64.dns4all.eu
 dope.snowstorm.love
-doq.dns4all.eu
-doq64.dns4all.eu
 extended.dns.mullvad.net
 family.adguard-dns.com
 family.canadianshield.cira.ca
