@@ -19,6 +19,7 @@ dns.cloudflare.com
 dns.comss.one
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
+dns.dnshome.de
 dns.mullvad.net
 dns.nextdns.io
 dns.njal.la
@@ -44,6 +45,7 @@ doh.cleanbrowsing.org
 doh.crypto.sx
 doh.dns4all.eu
 doh.ffmuc.net
+doh.lacontrevoie.fr
 doh.libredns.gr
 doh.opendns.com
 doh.safesurfer.io
