@@ -666,7 +666,6 @@ sdns://gQ00NS40MS4yMDQuMjA0
 sdns://gQ00NS44Ni4xNjIuMTEw
 sdns://gQ00NS4xNDcuNTEuMTIz
 sdns://gQ00NS4xNTUuMzcuMTY1
-sdns://gQ00NS4yNDkuOTEuMTUw
 sdns://gQ01LjE3NS4xODAuMTcx
 sdns://gQ01LjEzNC4xMTguMTk4
 sdns://gQ02NS4yMS4yNTIuMjAx
@@ -765,7 +764,6 @@ sdns://gQ8xNzYuMTExLjIxOS4xMjY
 sdns://gQ8xNzYuMTExLjIyMy4xNjc
 sdns://gQ8xODUuMjA3LjEyNS4xMDA
 sdns://gQ8xODUuMjMxLjEwMC4xMDY
-sdns://gQ8xODguMTMyLjE5Mi4xNjg
 sdns://gQ8xOTIuMTIxLjE3MC4xNTE
 sdns://gQ8xOTMuMjAxLjE4NS4xNDY
 sdns://gQ8xOTUuMTIzLjIxMi4yMDA
