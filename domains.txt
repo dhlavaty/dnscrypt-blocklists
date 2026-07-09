@@ -13,6 +13,7 @@ dns-doh.dnsforfamily.com
 dns.aa.net.uk
 dns.adguard-dns.com
 dns.artikel10.org
+dns.as212683.net
 dns.brahma.world
 dns.circl.lu
 dns.cloudflare.com
