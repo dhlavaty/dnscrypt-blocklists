@@ -133,7 +133,6 @@ lax02.dnscry.pt
 lim02.dnscry.pt
 lis01.dnscry.pt
 lis02.dnscry.pt
-lju01.dnscry.pt
 llk01.dnscry.pt
 lon01.dnscry.pt
 los02.dnscry.pt
@@ -175,7 +174,6 @@ per.adfilter.net
 per01.dnscry.pt
 phx01.dnscry.pt
 pluton.plan9-dns.com
-pmo01.dnscry.pt
 prg01.dnscry.pt
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -218,13 +216,11 @@ unfiltered.joindns4.eu
 unicast.uncensoreddns.org
 vie01.dnscry.pt
 vno01.dnscry.pt
-vte01.dnscry.pt
 waw01.dnscry.pt
 wikimedia-dns.org
 yhz01.dnscry.pt
 ymq01.dnscry.pt
 yvr01.dnscry.pt
-yyc01.dnscry.pt
 yyz01.dnscry.pt
 yyz02.dnscry.pt
 zal01.dnscry.pt
