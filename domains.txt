@@ -18,7 +18,6 @@ bkk01.dnscry.pt
 blank.dnsforge.de
 blr01.dnscry.pt
 bne01.dnscry.pt
-bog01.dnscry.pt
 bom02.dnscry.pt
 bre01.dnscry.pt
 bru01.dnscry.pt
@@ -41,7 +40,6 @@ dns.aa.net.uk
 dns.adguard-dns.com
 dns.artikel10.org
 dns.as212683.net
-dns.brahma.world
 dns.circl.lu
 dns.cloudflare.com
 dns.comss.one
@@ -216,11 +214,13 @@ unfiltered.joindns4.eu
 unicast.uncensoreddns.org
 vie01.dnscry.pt
 vno01.dnscry.pt
+vte01.dnscry.pt
 waw01.dnscry.pt
 wikimedia-dns.org
 yhz01.dnscry.pt
 ymq01.dnscry.pt
 yvr01.dnscry.pt
+yyc01.dnscry.pt
 yyz01.dnscry.pt
 yyz02.dnscry.pt
 zal01.dnscry.pt
