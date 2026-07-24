@@ -169,7 +169,6 @@ ped01.dnscry.pt
 per.adfilter.net
 per01.dnscry.pt
 phx01.dnscry.pt
-pluton.plan9-dns.com
 prg01.dnscry.pt
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
