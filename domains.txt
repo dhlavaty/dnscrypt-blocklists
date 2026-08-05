@@ -1,10 +1,8 @@
 abe01.dnscry.pt
 abn01.dnscry.pt
-adblock.dns.mullvad.net
 adl.adfilter.net
 adl01.dnscry.pt
 akl01.dnscry.pt
-all.dns.mullvad.net
 ams01.dnscry.pt
 ams02.dnscry.pt
 ams03.dnscry.pt
@@ -12,7 +10,6 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqx01.dnscry.pt
 atl01.dnscry.pt
-base.dns.mullvad.net
 bei01.dnscry.pt
 bkk01.dnscry.pt
 blank.dnsforge.de
@@ -46,7 +43,6 @@ dns.comss.one
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
-dns.mullvad.net
 dns.nextdns.io
 dns.njal.la
 dns.quad9.net
@@ -85,11 +81,9 @@ dus01.dnscry.pt
 dus02.dnscry.pt
 dus03.dnscry.pt
 evn01.dnscry.pt
-extended.dns.mullvad.net
 eyg01.dnscry.pt
 family.adguard-dns.com
 family.canadianshield.cira.ca
-family.dns.mullvad.net
 fet02.dnscry.pt
 fnt01.dnscry.pt
 fra01.dnscry.pt
