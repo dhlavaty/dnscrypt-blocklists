@@ -111,7 +111,6 @@ ind01.dnscry.pt
 isb01.dnscry.pt
 ist01.dnscry.pt
 jax01.dnscry.pt
-jb1-doh.cipherdns.co.za
 jen01.dnscry.pt
 jhb01.dnscry.pt
 jkt01.dnscry.pt
