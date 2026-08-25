@@ -21,12 +21,12 @@ bom02.dnscry.pt
 bre01.dnscry.pt
 bts01.dnscry.pt
 buh01.dnscry.pt
+cipherdns.co.za
 cleanbrowsing.org
 cloudflare-dns.com
 cph01.dnscry.pt
 cpt01.dnscry.pt
 cpt02.dnscry.pt
-ct1-doh.cipherdns.co.za
 cvt01.dnscry.pt
 dac01.dnscry.pt
 den01.dnscry.pt
