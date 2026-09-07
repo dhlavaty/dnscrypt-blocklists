@@ -110,7 +110,6 @@ ind01.dnscry.pt
 isb01.dnscry.pt
 ist01.dnscry.pt
 jax01.dnscry.pt
-jen01.dnscry.pt
 jhb01.dnscry.pt
 jkt01.dnscry.pt
 jnb01.dnscry.pt
@@ -196,7 +195,6 @@ unfiltered.joindns4.eu
 unicast.uncensoreddns.org
 vie01.dnscry.pt
 vno01.dnscry.pt
-vte01.dnscry.pt
 waw01.dnscry.pt
 wikimedia-dns.org
 yhz01.dnscry.pt
