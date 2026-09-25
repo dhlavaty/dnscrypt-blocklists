@@ -43,6 +43,7 @@ dns.comss.one
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
+dns.ekinao.com
 dns.mullvad.net
 dns.nextdns.io
 dns.njal.la
