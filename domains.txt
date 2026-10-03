@@ -106,10 +106,7 @@ hkg03.dnscry.pt
 huv01.dnscry.pt
 iah01.dnscry.pt
 ibksturm.synology.me
-iev01.dnscry.pt
-iev02.dnscry.pt
 ind01.dnscry.pt
-isb01.dnscry.pt
 ist01.dnscry.pt
 jax01.dnscry.pt
 jhb01.dnscry.pt
@@ -186,7 +183,6 @@ tbs01.dnscry.pt
 tia01.dnscry.pt
 tll01.dnscry.pt
 tpa01.dnscry.pt
-tpe01.dnscry.pt
 trf01.dnscry.pt
 tsm01.dnscry.pt
 tsr01.dnscry.pt
