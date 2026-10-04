@@ -162,6 +162,7 @@ ped01.dnscry.pt
 per.adfilter.net
 per01.dnscry.pt
 phx01.dnscry.pt
+pidoh.mapledns.net
 prg01.dnscry.pt
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -188,6 +189,7 @@ tbs01.dnscry.pt
 tia01.dnscry.pt
 tll01.dnscry.pt
 tpa01.dnscry.pt
+tpe01.dnscry.pt
 trf01.dnscry.pt
 tsm01.dnscry.pt
 tsr01.dnscry.pt
