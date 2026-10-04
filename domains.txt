@@ -44,16 +44,19 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.ekinao.com
+dns.hqdns.sarl
 dns.mullvad.net
 dns.nextdns.io
 dns.njal.la
 dns.quad9.net
 dns.safesurfer.co.nz
+dns.yunzheng.space
 dns1.dnscrypt.ca
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
 dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion
+dns64.dns.yunzheng.space
 dns9.quad9.net
 dnsbunker.org
 dnsforge.de
@@ -88,6 +91,7 @@ family.canadianshield.cira.ca
 family.dns.dremaxx.com
 family.dns.mullvad.net
 fet02.dnscry.pt
+filter.dns.yunzheng.space
 fnt01.dnscry.pt
 fra01.dnscry.pt
 fra02.dnscry.pt
@@ -108,10 +112,8 @@ iah01.dnscry.pt
 ibksturm.synology.me
 iev02.dnscry.pt
 ind01.dnscry.pt
-isb01.dnscry.pt
 ist01.dnscry.pt
 jax01.dnscry.pt
-jen01.dnscry.pt
 jhb01.dnscry.pt
 jkt01.dnscry.pt
 jnb01.dnscry.pt
@@ -197,7 +199,6 @@ unfiltered.joindns4.eu
 unicast.uncensoreddns.org
 vie01.dnscry.pt
 vno01.dnscry.pt
-vte01.dnscry.pt
 waw01.dnscry.pt
 wikimedia-dns.org
 yhz01.dnscry.pt
