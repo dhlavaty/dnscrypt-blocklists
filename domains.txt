@@ -44,7 +44,6 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.ekinao.com
-dns.hqdns.sarl
 dns.mullvad.net
 dns.nextdns.io
 dns.njal.la
@@ -171,6 +170,7 @@ protective.joindns4.eu
 public.dns.iij.jp
 rdd01.dnscry.pt
 rix01.dnscry.pt
+sao01.dnscry.pt
 sea01.dnscry.pt
 sel02.dnscry.pt
 sgn01.dnscry.pt
