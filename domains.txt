@@ -13,6 +13,7 @@ anycast.uncensoreddns.org
 aqx01.dnscry.pt
 atl01.dnscry.pt
 base.dns.mullvad.net
+beatquantum.com
 bei01.dnscry.pt
 blank.dnsforge.de
 blr01.dnscry.pt
@@ -43,6 +44,7 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.ekinao.com
+dns.moklav.co.jp
 dns.mullvad.net
 dns.nextdns.io
 dns.njal.la
@@ -145,6 +147,7 @@ nue01.dnscry.pt
 nyc01.dnscry.pt
 odoh-relay.edgecompute.app
 odoh-relay.numa.rs
+odoh-relay.sh2o.link
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
